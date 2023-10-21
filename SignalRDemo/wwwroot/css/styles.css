@@ -1,0 +1,75 @@
+﻿/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and text color for the body */
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #09c;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/* Center the main content */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+/* Style chat sections */
+.container {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 1rem 0;
+    padding: 1rem;
+}
+
+/* Chat window styles */
+.chat-window {
+    height: 300px; /* Adjust to your preference */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Message input styles */
+.message-input {
+    display: flex;
+    align-items: center;
+}
+
+    .message-input input[type="text"] {
+        flex: 1;
+        padding: 0.5rem;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .message-input button {
+        background-color: #09c;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        padding: 0.5rem 1rem;
+        margin-left: 0.5rem;
+        cursor: pointer;
+    }
+
+/* Style the footer */
+footer {
+    background-color: #09c;
+    color: #fff;
+    text-align: center;
+    padding: 0.5rem 0;
+}

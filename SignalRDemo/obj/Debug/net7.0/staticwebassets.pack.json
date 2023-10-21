@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\web\\backend\\39\\SignalRDemo Solution\\SignalRDemo\\wwwroot\\Pages\\Index.html",
+      "PackagePath": "staticwebassets\\Pages\\Index.html"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\SignalRDemo Solution\\SignalRDemo\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\SignalRDemo Solution\\SignalRDemo\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\SignalRDemo Solution\\SignalRDemo\\wwwroot\\lib\\signalr\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\signalr.js"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\SignalRDemo Solution\\SignalRDemo\\wwwroot\\lib\\signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SignalRDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SignalRDemo.props",
+      "PackagePath": "build\\SignalRDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRDemo.props",
+      "PackagePath": "buildMultiTargeting\\SignalRDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SignalRDemo.props",
+      "PackagePath": "buildTransitive\\SignalRDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
